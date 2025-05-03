@@ -1,3 +1,4 @@
+
 public class PhotoManager {
 
 	LinkedList<Photo> photos;
