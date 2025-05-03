@@ -1,4 +1,3 @@
-
 public class InvAlbum {
 	private String name;
 	private String condition;
